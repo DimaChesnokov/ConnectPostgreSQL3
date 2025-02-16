@@ -18,11 +18,11 @@ Support Vector Machine (SVM) – метод опорных векторов.
 1. Установка необходимых библиотек
    pip install pandas numpy seaborn matplotlib sqlalchemy scikit-learn psycopg2
 2. Настройка подключения к базе данных
-  host = "povt-cluster.tstu.tver.ru"
-  port = 5432
-  user = "mpi"
-  password = "135a1"
-  database = "NameBD"
+  -host = "povt-cluster.tstu.tver.ru"
+  -port = 5432
+  -user = "mpi"
+  -password = "135a1"
+  -atabase = "NameBD"
 3.Запуск программы
 python main.py
 
